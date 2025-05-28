@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Kuba\Desktop\projekty\ShaderGlass\main.cpp(24,17): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kuba\Desktop\projekty\ShaderGlass\main.cpp(25,17): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kuba\Desktop\projekty\ShaderGlass\main.cpp(29,19): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kuba\Desktop\projekty\ShaderGlass\main.cpp(30,19): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kuba\Desktop\projekty\ShaderGlass\main.cpp(32,13): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kuba\Desktop\projekty\ShaderGlass\main.cpp(33,13): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kuba\Desktop\projekty\ShaderGlass\main.cpp(242,56): warning C4267: "argument": konwersja z "size_t" do "GLsizei", możliwa utrata danych
+  ShaderGlass.vcxproj -> C:\Users\Kuba\Desktop\projekty\ShaderGlass\x64\Debug\ShaderGlass.exe
