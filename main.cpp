@@ -12,6 +12,8 @@
 #include "stb_image.h"
 #include "camera.h"
 
+//asdasdasd
+
 //OBRÓT KAMERY
 float lastX = 400, lastY = 300;
 bool firstMouse = true;
